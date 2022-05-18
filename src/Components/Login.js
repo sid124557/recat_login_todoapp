@@ -29,7 +29,7 @@ function Login() {
       const cookies = new Cookies();
       cookies.set(passwordlog, emaillog, { path: '/' });
       console.log(document.cookie);
-      localStorage.setItem("passwordlog", JSON.stringify(passwordlog));
+      localStorage.setItem("password", JSON.stringify(passwordlog));
       localStorage.setItem("Email", JSON.stringify(emaillog));
     } else {
       setHome(!home);
