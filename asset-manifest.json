@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recat_login_todoapp/static/css/main.7d2271e0.chunk.css",
+    "main.js": "/recat_login_todoapp/static/js/main.9552190b.chunk.js",
+    "main.js.map": "/recat_login_todoapp/static/js/main.9552190b.chunk.js.map",
+    "runtime-main.js": "/recat_login_todoapp/static/js/runtime-main.b3a8babe.js",
+    "runtime-main.js.map": "/recat_login_todoapp/static/js/runtime-main.b3a8babe.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/recat_login_todoapp/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.da7fa00c.chunk.js": "/recat_login_todoapp/static/js/2.da7fa00c.chunk.js",
+    "static/js/2.da7fa00c.chunk.js.map": "/recat_login_todoapp/static/js/2.da7fa00c.chunk.js.map",
+    "index.html": "/recat_login_todoapp/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/recat_login_todoapp/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7d2271e0.chunk.css.map": "/recat_login_todoapp/static/css/main.7d2271e0.chunk.css.map",
+    "static/js/2.da7fa00c.chunk.js.LICENSE.txt": "/recat_login_todoapp/static/js/2.da7fa00c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3a8babe.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.da7fa00c.chunk.js",
+    "static/css/main.7d2271e0.chunk.css",
+    "static/js/main.9552190b.chunk.js"
+  ]
+}
